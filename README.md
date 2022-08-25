@@ -1,0 +1,2 @@
+# dayByDay
+Due to the 2020 pandemic, it is said that the majority of people today have had a decline in their mental health; we all have lost valuable time. This app is meant to keep track of your days and remember everything that happened within them, while also seeing your own progress! With these simple plans, daily check ins, and ratings it will make a great difference in how we go Day-By-Day. 
